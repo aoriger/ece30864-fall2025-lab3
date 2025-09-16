@@ -3,3 +3,7 @@ a. Pros of Agile development are flexibility in changing project requirements an
 
 b. The Scrum Master leads all scrum-related tasks such as facilitating sprints, organizing meetings, and overseeing JIRA. 
    The Product Owner sets the direction for the team and handles releases and stakeholder management.
+
+c. Sprint planning meetings are for determining the objectives of the next sprint and moving stories into sprint scope.
+    Daily scrum/standup meetings are for discussing work completed in the previous day and the work plan for the day.
+    Sprint retrospective meetings are for discussing complete work and moving incomplete work to the backlog.
