@@ -7,3 +7,8 @@ b. The Scrum Master leads all scrum-related tasks such as facilitating sprints, 
 c. Sprint planning meetings are for determining the objectives of the next sprint and moving stories into sprint scope.
     Daily scrum/standup meetings are for discussing work completed in the previous day and the work plan for the day.
     Sprint retrospective meetings are for discussing complete work and moving incomplete work to the backlog.
+
+d. An Epic is an idea that captures a large body of work.
+    A Story is a user perspective of a need/desire for a new feature and its motivation.
+    A Bug is an issue or problem in development with a feature, and it is the smallest unit of work.
+    A Task is a piece of work to be done to build a new feature.
