@@ -1,2 +1,5 @@
 a. Pros of Agile development are flexibility in changing project requirements and continual delivery of results. 
     Cons are the need for continual meetings and communication and the focus on short-term deliverables over the big picture.
+
+b. The Scrum Master leads all scrum-related tasks such as facilitating sprints, organizing meetings, and overseeing JIRA. 
+   The Product Owner sets the direction for the team and handles releases and stakeholder management.
